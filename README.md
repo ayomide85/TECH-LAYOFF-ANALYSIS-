@@ -26,3 +26,5 @@ The dataset is a CSV file with 9 columns.
 . country (Country)
 
 . Funds_raised (Funds raised by the company (in Millions $)
+
+![l1](https://user-images.githubusercontent.com/78751113/224112263-2739951e-50ae-4ff1-b6e6-da7944d71622.png)
